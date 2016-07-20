@@ -1,0 +1,22 @@
+{
+  "name": "SCDUtils",
+  "version": "0.1.0",
+  "summary": "A short description of SCDUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SCDUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sam DeVore": "sdevore@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SCDUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SCDUtils/Classes/**/*"
+}

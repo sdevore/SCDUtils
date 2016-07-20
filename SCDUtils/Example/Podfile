@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'SCDUtils_Example' do
+  pod 'SCDUtils', :path => '../'
+
+  target 'SCDUtils_Tests' do
+    inherit! :search_paths
+    pod 'OHHTTPStubs'
+  end
+end
